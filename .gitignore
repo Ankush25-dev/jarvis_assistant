@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+venv/
+__pycache__/
+
+# Ignore Mac/Linux system files
+.DS_Store
