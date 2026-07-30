@@ -2,7 +2,8 @@ from utils.logger import logger
 
 # --- IMPORT REAL MODULES ---
 from modules.system_controller import open_browser
-from modules.system_monitor import check_ram  # <-- NEW IMPORT
+from modules.system_monitor import check_ram  
+from modules.web_fetcher import fetch_headline  # <-- NEW IMPORT
 
 # --- MOCK MODULES (To be replaced later) ---
 def get_time():
@@ -17,7 +18,8 @@ def main():
     command_router = {
         "time": get_time,
         "browser": open_browser,
-        "ram": check_ram  # <-- NEW ROUTE
+        "ram": check_ram,  
+        "news": fetch_headline
     }
 
     while True:
