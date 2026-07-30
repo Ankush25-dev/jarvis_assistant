@@ -2,6 +2,7 @@ from utils.logger import logger
 
 # --- IMPORT REAL MODULES ---
 from modules.system_controller import open_browser
+from modules.system_monitor import check_ram  # <-- NEW IMPORT
 
 # --- MOCK MODULES (To be replaced later) ---
 def get_time():
@@ -11,11 +12,12 @@ def get_time():
 
 def main():
     logger.info("Jarvis system initializing...")
-    print("Available commands: 'time', 'browser', 'exit'.\n")
+    print("Available commands: 'time', 'browser', 'ram', 'exit'.\n") # Updated print
 
     command_router = {
         "time": get_time,
-        "browser": open_browser
+        "browser": open_browser,
+        "ram": check_ram  # <-- NEW ROUTE
     }
 
     while True:
