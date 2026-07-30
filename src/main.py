@@ -1,21 +1,48 @@
+# --- MODULES (The Spokes) ---
+# For now, these are just "dummy" functions. Later, they will do real work.
+
+def get_time():
+    return "Jarvis: The time is currently 12:00 PM (Simulated)."
+
+def open_browser():
+    return "Jarvis: Opening your web browser now (Simulated)."
+
+# --- CORE SYSTEM (The Hub) ---
+
 def main():
-    # Greet the user when the program starts
     print("Jarvis system initializing...")
-    print("Type 'exit' or 'quit' to shut down.\n")
+    print("Available commands: 'time', 'browser', 'exit'.\n")
 
-    # This is the "Pulse" - an infinite loop keeping Jarvis alive
+    # The Strategy Pattern (Command Router)
+    # The KEY is the user's text. The VALUE is the function to run.
+    # Notice there are no () after get_time or open_browser!
+    command_router = {
+        "time": get_time,
+        "browser": open_browser
+    }
+
     while True:
-        # 1. READ: Get text input from the user
-        user_input = input("You: ")
+        # 1. READ & SANITIZE: Get text, make it lowercase, and remove extra spaces
+        user_input = input("You: ").lower().strip()
 
-        # 2. EVALUATE: Check if the user wants to shut down
-        if user_input.lower() in ['exit', 'quit']:
+        # 2. EVALUATE: Check for system shutdown
+        if user_input in ['exit', 'quit']:
             print("Jarvis: Shutting down systems. Goodbye!")
-            break  # This command kills the infinite loop
+            break 
 
-        # 3. PRINT: Respond to the user
-        print(f"Jarvis: You said '{user_input}', but my brain isn't connected yet!\n")
+        # 3. ROUTE: Check if the command exists in our dictionary
+        if user_input in command_router:
+            # Grab the function out of the dictionary
+            action_function = command_router[user_input]
+            
+            # Execute the function by adding () and save what it returns
+            response = action_function()
+            
+            # 4. PRINT: Output the result
+            print(response + "\n")
+        
+        else:
+            print(f"Jarvis: I don't have a module to handle '{user_input}' yet.\n")
 
-# This checks if we are running main.py directly
 if __name__ == "__main__":
     main()
