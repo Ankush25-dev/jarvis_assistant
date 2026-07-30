@@ -1,13 +1,11 @@
-# Import our new custom logger
 from utils.logger import logger
 
-# --- MODULES (The Spokes) ---
+# --- IMPORT REAL MODULES ---
+from modules.system_controller import open_browser
 
+# --- MOCK MODULES (To be replaced later) ---
 def get_time():
     return "The time is currently 12:00 PM (Simulated)."
-
-def open_browser():
-    return "Opening your web browser now (Simulated)."
 
 # --- CORE SYSTEM (The Hub) ---
 
