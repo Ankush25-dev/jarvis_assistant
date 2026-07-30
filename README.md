@@ -10,4 +10,4 @@ A modular, local-first AI desktop assistant built in Python.
 4. Run the core system: `python3 src/main.py`
 
 ## Features Completed
-- [x] Phase 1: Project Setup & Core REPL Loops
+- [x] Phase 1: Project Setup & Core REPL Loop
