@@ -53,3 +53,13 @@
 2026-07-31 01:17:23,057 - INFO - Text-to-Speech engine initialized successfully.
 2026-07-31 01:17:23,148 - INFO - Jarvis system initializing...
 2026-07-31 01:17:31,123 - INFO - Shutting down systems. Goodbye!
+2026-07-31 01:29:30,965 - INFO - Text-to-Speech engine initialized successfully.
+2026-07-31 01:29:31,083 - INFO - Jarvis system initializing...
+2026-07-31 01:29:35,568 - WARNING - Speech recognition could not understand audio.
+2026-07-31 01:29:38,312 - INFO - Microphone captured: 'Browser'
+2026-07-31 01:29:38,318 - INFO - Successfully launched Firefox via subprocess.
+2026-07-31 01:29:38,319 - INFO - Executed command: browser
+2026-07-31 01:29:45,867 - INFO - Microphone captured: 'hello jar'
+2026-07-31 01:29:45,870 - WARNING - Unknown command attempted: 'hello jar'
+2026-07-31 01:29:56,357 - INFO - Microphone captured: 'exit'
+2026-07-31 01:29:56,361 - INFO - Shutting down systems. Goodbye!

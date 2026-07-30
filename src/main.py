@@ -1,5 +1,6 @@
 from utils.logger import logger
-from utils.speaker import speaker  # <-- NEW IMPORT
+from utils.speaker import speaker
+from utils.listener import listen_for_command  # <-- NEW IMPORT
 
 # --- IMPORT REAL MODULES ---
 from modules.system_controller import open_browser
@@ -18,8 +19,6 @@ def main():
     welcome_msg = "Jarvis system initializing. All modules online."
     print(f"Jarvis: {welcome_msg}\n")
     print("Available commands: 'time', 'browser', 'ram', 'news', 'exit'.\n")
-    
-    # Speak the welcome message!
     speaker.speak(welcome_msg)
 
     command_router = {
@@ -30,7 +29,16 @@ def main():
     }
 
     while True:
-        user_input = input("You: ").lower().strip()
+        # --- NEW LISTENER LOGIC ---
+        # Instead of typing, we call the microphone function
+        user_input = listen_for_command()
+
+        # If the listener returned an empty string (like if you didn't speak), loop back and listen again
+        if not user_input:
+            continue
+            
+        print(f"You said: {user_input}")
+        # --------------------------
 
         if user_input in ['exit', 'quit']:
             shutdown_msg = "Shutting down systems. Goodbye!"
@@ -44,7 +52,6 @@ def main():
             response = action_function()
             logger.info(f"Executed command: {user_input}")
             
-            # Print AND Speak the response
             print(f"Jarvis: {response}\n")
             speaker.speak(response)
         
