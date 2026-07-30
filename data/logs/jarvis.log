@@ -63,3 +63,446 @@
 2026-07-31 01:29:45,870 - WARNING - Unknown command attempted: 'hello jar'
 2026-07-31 01:29:56,357 - INFO - Microphone captured: 'exit'
 2026-07-31 01:29:56,361 - INFO - Shutting down systems. Goodbye!
+2026-07-31 02:04:02,943 - INFO - Text-to-Speech engine initialized successfully.
+2026-07-31 02:04:24,195 - INFO - Text-to-Speech engine initialized successfully.
+2026-07-31 02:06:29,075 - INFO - Text-to-Speech engine initialized successfully.
+2026-07-31 02:06:30,015 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:06:30,015 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:06:35,386 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:06:38,679 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:06:45,385 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:06:52,274 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:06:55,830 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:07:05,790 - INFO - Microphone captured: 'hello'
+2026-07-31 02:07:05,794 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:07:07,035 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:07:13,214 - INFO - Microphone captured: 'open browser'
+2026-07-31 02:07:13,217 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:07:14,637 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:07:50,614 - INFO - Microphone captured: 'Browser'
+2026-07-31 02:07:50,618 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:07:51,835 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:08:51,638 - INFO - Microphone captured: 'exit exit'
+2026-07-31 02:08:51,642 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:08:53,236 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:09:26,366 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:09:32,109 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:09:35,789 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:09:45,000 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:09:47,705 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:09:53,211 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:10:12,687 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:10:23,741 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:10:30,107 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:10:34,310 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:10:45,565 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:10:50,479 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:10:55,047 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:11:02,285 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:11:06,114 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:11:10,284 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:11:14,573 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:11:32,320 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:11:35,488 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:11:41,313 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:11:49,250 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:11:56,036 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:12:16,266 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:12:28,272 - INFO - Text-to-Speech engine initialized successfully.
+2026-07-31 02:12:29,185 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:12:29,186 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:12:34,202 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:12:37,622 - INFO - Microphone captured: 'what are you'
+2026-07-31 02:12:37,625 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:12:39,098 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:15:48,507 - INFO - Text-to-Speech engine initialized successfully.
+2026-07-31 02:15:49,393 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:15:49,393 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:15:54,478 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:16:00,661 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:16:04,106 - INFO - Microphone captured: 'exit'
+2026-07-31 02:16:04,109 - INFO - Shutting down systems. Goodbye!
+2026-07-31 02:16:11,611 - INFO - Text-to-Speech engine initialized successfully.
+2026-07-31 02:16:12,518 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:16:12,518 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:16:17,617 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:16:23,745 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:16:33,744 - INFO - Microphone captured: 'hello mam'
+2026-07-31 02:16:33,747 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:16:35,134 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:16:56,856 - INFO - Microphone captured: 'ok shut down'
+2026-07-31 02:16:56,859 - INFO - Shutting down systems. Goodbye!
+2026-07-31 02:21:23,325 - INFO - Text-to-Speech engine initialized successfully.
+2026-07-31 02:21:24,224 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:21:24,225 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:21:35,590 - INFO - Microphone captured: 'tell me a joke'
+2026-07-31 02:21:35,593 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:21:36,919 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:25:14,546 - INFO - Subprocess Text-to-Speech engine initialized successfully.
+2026-07-31 02:25:15,477 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:25:15,477 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:25:24,887 - INFO - Microphone captured: 'hello'
+2026-07-31 02:25:24,891 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:25:25,932 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:25:31,748 - INFO - Microphone captured: 'tell me a joke'
+2026-07-31 02:25:31,751 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:25:32,846 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:25:40,026 - INFO - Microphone captured: 'tell me a joke long'
+2026-07-31 02:25:40,029 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:25:42,058 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:25:45,422 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:25:57,790 - INFO - Microphone captured: 'explain me a long concept anything'
+2026-07-31 02:25:57,793 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:26:03,577 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:26:10,249 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:26:15,393 - INFO - Microphone captured: 'why don't you sound coming'
+2026-07-31 02:26:15,397 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:26:17,330 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:26:30,701 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:26:35,529 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:26:40,607 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:26:46,703 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:26:50,992 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:26:56,902 - INFO - Microphone captured: 'exit'
+2026-07-31 02:26:56,906 - INFO - Shutting down systems. Goodbye!
+2026-07-31 02:27:02,064 - INFO - Subprocess Text-to-Speech engine initialized successfully.
+2026-07-31 02:27:02,956 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:27:02,956 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:27:07,749 - INFO - Microphone captured: 'hello jar'
+2026-07-31 02:27:07,751 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:27:08,749 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:27:11,787 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:27:19,933 - INFO - Microphone captured: 'tell me a new joke'
+2026-07-31 02:27:19,937 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:27:21,025 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:27:28,192 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:27:38,383 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:27:49,585 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:27:55,934 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:27:59,863 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:28:05,503 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:28:09,353 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:28:30,307 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:28:36,148 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:28:39,387 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:28:49,796 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:28:56,008 - INFO - Microphone captured: 'exit'
+2026-07-31 02:28:56,011 - INFO - Shutting down systems. Goodbye!
+2026-07-31 02:29:00,430 - INFO - Subprocess Text-to-Speech engine initialized successfully.
+2026-07-31 02:29:01,313 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:29:01,313 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:29:10,622 - INFO - Microphone captured: 'explain about web scraper'
+2026-07-31 02:29:10,626 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:29:15,546 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:33:36,148 - INFO - Subprocess Text-to-Speech engine initialized successfully.
+2026-07-31 02:33:37,063 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:33:37,063 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:33:48,108 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:33:52,741 - INFO - Microphone captured: 'explain quantum physics'
+2026-07-31 02:33:52,745 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:33:54,292 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:34:20,397 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:34:26,610 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:34:34,327 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:34:51,654 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:34:57,513 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:35:01,423 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:35:06,434 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:35:12,348 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:35:30,199 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:35:34,448 - INFO - Microphone captured: 'shutdown'
+2026-07-31 02:35:34,451 - INFO - Shutting down systems. Goodbye!
+2026-07-31 02:37:01,800 - INFO - Subprocess Text-to-Speech engine initialized successfully.
+2026-07-31 02:37:02,720 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:37:02,720 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:37:18,039 - INFO - Microphone captured: 'hello jar'
+2026-07-31 02:37:18,043 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:37:19,239 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:37:26,684 - INFO - Microphone captured: 'explain me about Quantum'
+2026-07-31 02:37:26,687 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:37:27,981 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:37:37,995 - INFO - Microphone captured: 'hello'
+2026-07-31 02:37:37,999 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:37:39,046 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:37:50,209 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:37:56,285 - INFO - Microphone captured: 'tell me a joke in Hindi'
+2026-07-31 02:37:56,289 - INFO - AFC is enabled with max remote calls: 10.
+2026-07-31 02:37:57,897 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:38:16,248 - INFO - Microphone captured: 'ok shut down'
+2026-07-31 02:38:16,251 - INFO - Shutting down systems. Goodbye!
+2026-07-31 02:48:12,306 - INFO - Subprocess Text-to-Speech engine initialized successfully.
+2026-07-31 02:48:13,217 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:49:48,202 - INFO - Subprocess Text-to-Speech engine initialized successfully.
+2026-07-31 02:49:49,110 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:52:25,349 - INFO - Subprocess Text-to-Speech engine initialized successfully.
+2026-07-31 02:52:25,404 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 02:52:25,404 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 02:52:36,500 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:52:41,996 - INFO - Microphone captured: 'explain quantum physics'
+2026-07-31 02:52:43,527 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:53:06,986 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:53:14,941 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:53:18,299 - INFO - Microphone captured: 'sing me a short'
+2026-07-31 02:53:19,132 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:53:30,696 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:53:36,804 - INFO - Microphone captured: 'open browser'
+2026-07-31 02:53:37,972 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:53:37,973 - INFO - Gemini requested tool call: open_web_browser with arguments: {}
+2026-07-31 02:53:38,025 - INFO - Successfully opened browser to URL: https://www.google.com
+2026-07-31 02:53:38,475 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 02:53:38,476 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 02:53:46,180 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:53:50,854 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:53:57,912 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:54:02,334 - INFO - Microphone captured: 'open file manager'
+2026-07-31 02:54:03,153 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:54:03,154 - INFO - Gemini requested tool call: open_local_path with arguments: {'path': 'C:\\\\'}
+2026-07-31 02:54:03,155 - WARNING - Attempted to open non-existent local path: /home/ankush-25/jarvis_assistant/C:\\
+2026-07-31 02:54:03,571 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 02:54:03,572 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 02:54:10,465 - INFO - Microphone captured: 'file manager'
+2026-07-31 02:54:11,654 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:54:11,655 - INFO - Gemini requested tool call: open_local_path with arguments: {'path': '.'}
+2026-07-31 02:54:11,656 - INFO - Successfully opened local path: /home/ankush-25/jarvis_assistant
+2026-07-31 02:54:12,157 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 02:54:12,158 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 02:54:20,139 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:54:24,666 - INFO - Microphone captured: 'open Firefox'
+2026-07-31 02:54:25,694 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:54:25,695 - INFO - Gemini requested tool call: open_web_browser with arguments: {'url': 'https://www.google.com'}
+2026-07-31 02:54:25,695 - INFO - Successfully opened browser to URL: https://www.google.com
+2026-07-31 02:54:26,103 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 02:54:26,104 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 02:54:35,722 - INFO - Microphone captured: 'open Firefox and search for YouTube'
+2026-07-31 02:54:36,863 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 02:54:36,865 - INFO - Gemini requested tool call: open_web_browser with arguments: {'url': 'https://www.youtube.com'}
+2026-07-31 02:54:36,865 - INFO - Successfully opened browser to URL: https://www.youtube.com
+2026-07-31 02:54:37,265 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 02:54:37,266 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 02:54:44,959 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:54:52,712 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:54:56,626 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:55:02,059 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:55:07,541 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:55:13,258 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:55:18,621 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:55:23,525 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:55:27,967 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:55:38,204 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:55:42,322 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:55:49,896 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:00,387 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:08,916 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:19,055 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:22,029 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:28,503 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:33,075 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:38,443 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:43,664 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:48,001 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:53,071 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:56:58,856 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:57:08,323 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:57:14,513 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:57:21,592 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:57:33,003 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:57:43,818 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:57:47,328 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:57:54,480 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:57:59,870 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:58:06,287 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:58:09,977 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:58:14,481 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:58:21,312 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:58:25,341 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:58:29,914 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:58:36,420 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:58:45,076 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:58:58,007 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:59:03,676 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:59:23,614 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:59:31,272 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:59:38,825 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:59:46,856 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:59:53,017 - WARNING - Speech recognition could not understand audio.
+2026-07-31 02:59:59,075 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:00:12,157 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:00:14,836 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:00:18,810 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:00:22,212 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:00:30,883 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:00:36,597 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:00:41,381 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:00:45,259 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:00:51,938 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:00:55,065 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:01:02,462 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:01:07,057 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:01:14,082 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:01:18,468 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:01:29,969 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:01:33,300 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:01:38,932 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:01:44,118 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:01:47,519 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:01:52,239 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:02:12,411 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:02:16,496 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:02:20,492 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:02:24,415 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:02:28,471 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:02:31,625 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:02:41,424 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:03:00,422 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:03:07,425 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:03:18,550 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:03:38,339 - INFO - gTTS Text-to-Speech engine initialized successfully.
+2026-07-31 03:03:39,245 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 03:03:45,338 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:02,893 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:07,064 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:11,517 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:15,729 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:19,741 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:24,272 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:28,749 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:35,490 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:41,670 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:45,403 - INFO - gTTS Text-to-Speech engine initialized successfully.
+2026-07-31 03:04:45,454 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 03:04:45,454 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 03:04:51,472 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:04:55,325 - INFO - Microphone captured: 'hello Jarvis'
+2026-07-31 03:04:55,371 - INFO - Microphone captured: 'hello Jarvis'
+2026-07-31 03:04:56,669 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:04:56,877 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:05:06,091 - INFO - Microphone captured: 'can you play a lofi song in YouTube'
+2026-07-31 03:05:06,202 - INFO - Microphone captured: 'can you play a lofi song in YouTube'
+2026-07-31 03:05:06,938 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:05:06,939 - INFO - Gemini requested tool call: open_web_browser with arguments: {'url': 'https://www.youtube.com/results?search_query=lofi+hip+hop+radio'}
+2026-07-31 03:05:06,939 - INFO - Successfully opened browser to URL: https://www.youtube.com/results?search_query=lofi+hip+hop+radio
+2026-07-31 03:05:07,338 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 03:05:07,339 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 03:05:07,347 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:05:07,349 - INFO - Gemini requested tool call: play_youtube_music with arguments: {'search_query': 'lofi hip hop radio'}
+2026-07-31 03:05:09,934 - INFO - Successfully playing YouTube music for query 'lofi hip hop radio': https://www.youtube.com/watch?v=ualMRPf3XZs
+2026-07-31 03:05:10,311 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 03:05:10,312 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 03:05:16,206 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:20,222 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:20,256 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:24,467 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:24,527 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:30,275 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:30,308 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:40,711 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:40,726 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:46,896 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:47,186 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:54,142 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:54,151 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:05:57,718 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:01,731 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:03,881 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:07,711 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:07,721 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:11,587 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:11,591 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:19,264 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:19,314 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:23,194 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:23,291 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:30,234 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:30,271 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:41,379 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:41,507 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:44,479 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:44,738 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:52,023 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:06:52,068 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:12,537 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:12,677 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:16,219 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:17,148 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:21,728 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:21,836 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:25,588 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:25,681 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:29,474 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:29,528 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:33,640 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:33,689 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:07:44,601 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:00,282 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:00,305 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:12,247 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:12,302 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:16,736 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:16,749 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:28,741 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:28,744 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:31,418 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:31,478 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:48,206 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:08:48,209 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:09:02,041 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:09:02,175 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:09:19,481 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:09:19,552 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:09:26,509 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:09:30,285 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:09:34,675 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:09:54,774 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:09:57,640 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:10:00,734 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:10:05,939 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:10:05,975 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:10:15,672 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:10:15,688 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:10:21,831 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:10:21,848 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:10:37,892 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:10:37,969 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:10:47,225 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:14:05,842 - INFO - gTTS Text-to-Speech engine initialized successfully.
+2026-07-31 03:14:05,905 - INFO - Successfully connected to the Google Gemini API.
+2026-07-31 03:14:05,905 - INFO - Jarvis system initializing (AI Core Active)...
+2026-07-31 03:14:33,135 - WARNING - Speech recognition could not understand audio.
+2026-07-31 03:14:36,932 - INFO - Microphone captured: 'hello jar'
+2026-07-31 03:14:38,332 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:14:45,947 - INFO - Microphone captured: 'can you play'
+2026-07-31 03:14:47,061 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:14:58,583 - INFO - Microphone captured: 'play any song any rand'
+2026-07-31 03:14:59,720 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:14:59,722 - INFO - Gemini requested tool call: play_youtube_music with arguments: {'search_query': 'random song'}
+2026-07-31 03:15:01,482 - INFO - Successfully playing YouTube music for query 'random song': https://www.youtube.com/watch?v=vIeF7HZsZiU&autoplay=1
+2026-07-31 03:15:01,952 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 03:15:01,952 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 03:15:19,171 - INFO - Microphone captured: 'in same in same YouTube tab play a lofi song'
+2026-07-31 03:15:20,260 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:15:20,261 - INFO - Gemini requested tool call: play_youtube_music with arguments: {'search_query': 'lofi songs'}
+2026-07-31 03:15:21,431 - INFO - Successfully playing YouTube music for query 'lofi songs': https://www.youtube.com/watch?v=zoFLbJ_09aM&autoplay=1
+2026-07-31 03:15:21,889 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 03:15:21,889 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 03:15:37,121 - INFO - Microphone captured: 'ok can you tell me a short story'
+2026-07-31 03:15:38,275 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:15:57,262 - INFO - Microphone captured: 'can you tell me a story in Hindi'
+2026-07-31 03:15:58,790 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:16:16,461 - INFO - Microphone captured: 'ok you are working fine'
+2026-07-31 03:16:17,633 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:16:28,227 - INFO - Microphone captured: 'can you open file manager please'
+2026-07-31 03:16:29,389 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:16:29,391 - INFO - Gemini requested tool call: open_local_path with arguments: {'path': '.'}
+2026-07-31 03:16:29,391 - INFO - Successfully opened local path: /home/ankush-25/jarvis_assistant
+2026-07-31 03:16:29,798 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 03:16:29,799 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 03:16:41,074 - INFO - Microphone captured: 'can you open'
+2026-07-31 03:16:42,253 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:16:55,068 - INFO - Microphone captured: 'open VLC'
+2026-07-31 03:16:56,228 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-07-31 03:16:56,229 - INFO - Gemini requested tool call: open_local_path with arguments: {'path': 'vlc'}
+2026-07-31 03:16:56,229 - WARNING - Attempted to open non-existent local path: /home/ankush-25/jarvis_assistant/vlc
+2026-07-31 03:16:56,625 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 400 Bad Request"
+2026-07-31 03:16:56,626 - ERROR - AI API call failed. Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': "Role 'tool' is not supported. Please use a valid role: SYSTEM, SYSTEM_1, USER, ASSISTANT, DEVELOPER, CONTEXT, USER_CONTEXT, MODEL, USER.", 'status': 'INVALID_ARGUMENT'}}
+2026-07-31 03:17:11,822 - INFO - Microphone captured: 'good good and shut down now'
+2026-07-31 03:17:11,825 - INFO - Shutting down systems. Goodbye!
